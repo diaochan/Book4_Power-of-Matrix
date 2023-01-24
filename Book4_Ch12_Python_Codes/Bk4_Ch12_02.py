@@ -54,3 +54,6 @@ ax.zaxis.set_ticklabels([])
 ax.view_init(35, 60)
 ax.set_proj_type('ortho')
 ax.set_box_aspect([1,1,1])
+
+
+plt.show()
